@@ -1,0 +1,37 @@
+Prueba Técnica: Pasantía Proofpoint – Benjamín Vaca
+A.
+1) Describe the most relevant learnings from programming-related
+subjects.
+The most relevant experience in my learning journey was when I started
+my career in DevOps through a specialized course. During this course, I
+learned how to deploy applications, implement CI/CD pipelines, and work
+with Infrastructure as Code (IaC) using Terraform and AWS
+CloudFormation. Additionally, I gained hands-on experience with Docker
+and Kubernetes for containerization and orchestration.
+I also explored AWS services such as EC2, ECS, S3, CloudWatch, and
+VPC, which allowed me to understand cloud infrastructure management,
+networking, monitoring, and scaling strategies. Furthermore, I developed
+strong Linux skills, learning essential commands for configuring and
+managing instances, automating tasks, and optimizing system
+performance.
+This experience provided me with a solid foundation in automation, cloud
+computing, and software deployment best practices.
+2) Describe a situation you had to resolve with a teammate from a
+study or work group.
+During our thesis project, my team and I had to address a visualization
+requirement for a 3D environment in the e-commerce platform we had
+developed. This challenge proved to be quite difficult and complicated
+the project for a while. However, we were able to resolve it by utilizing a
+Unity API that allowed us to meet the client's specific request. This
+experience taught us the importance of collaboration, creative problem
+solving, and leveraging the right tools to overcome technical challenges.
+3) Describe your personal learning plans or development expectations
+in technical areas.
+I want to continue specializing in DevOps and Cloud Computing because
+it is a technical field that caught my attention and is currently in high
+demand. My goal is to deepen my knowledge in automation, cloud
+infrastructure, and deployment strategies while gaining a better
+understanding of the DevOps culture and its role within a development
+team. I aim to refine my skills in CI/CD, container orchestration, and
+infrastructure management to contribute effectively to modern software
+development environments.
